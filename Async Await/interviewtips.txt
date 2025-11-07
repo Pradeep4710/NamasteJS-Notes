@@ -1,0 +1,13 @@
+1. Whats async await?
+
+ans- Async is a keyword which is used with a funciton, await can be used only inside async functions to handle promises. These promises are asynchronous etc.
+
+if possible try and explain promises as well
+
+
+
+2. Async/Await vs Promise.then/.catch
+
+ans- Async await is just a syntactical sugarcoat on .then and .catch methods as JS engine uses .then .catch in backend while executing async await only.
+
+prefrably we should use async await only as its easier to implement in sequence we want and is also more in demand at the moment.

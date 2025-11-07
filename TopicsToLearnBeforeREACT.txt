@@ -1,0 +1,50 @@
+Topics to learn before starting REACT.js
+
+
+1. Basics of HTMl & CSS
+
+2. Basics of JS 
+    # Variables
+        -var
+        -let
+        -cont
+    # Hoisting of variables
+
+3. Functions in JS  
+    # Arrow Functions
+    # Higher Order Functions
+
+4.  Arrays and Objects
+    # Array destructuring
+    # Object destructuring
+    # rest operator
+    # spread operator
+
+5. Conditions in Javascript
+    # if else
+    # ternary operator
+    # using && and ||
+    # Optional Chaining
+
+6. Array methods
+    # map()
+    # filter()
+    # reduce()
+    # sort()
+
+7. Event Listerners
+    # onClick
+    # onBlur
+    # onChange
+    # onFocus
+   setTimeout() & setInterval()
+
+8. Asynchronous Events
+    # Callbacks
+    # Callback Hell
+    # Promises
+    # Promise APIs
+
+9. Async / Await
+
+10. Try/Catch (error handling)

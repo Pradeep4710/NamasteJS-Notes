@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Namaste JS 🙏</h1>
+    <h1> This Keyword</h1>
+
+
+    <button onclick="alert(this)">CLick me</button>
+    <!-- On clik , it shows [object HTMLButtonElement], hence we can say that here the this keyword becomes the reference to the HTML element -->
+    
+    <button onclick="alert(this.tagName)">CLick me</button>    
+    <!-- On clik , it shows [Button], hence we can say that here the this keyword also works with specific html methods/fucntions a well -->
+
+    <script src="script.js"></script>
+</body>
+</html>
